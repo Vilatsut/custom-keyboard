@@ -22,6 +22,8 @@ Then I used QMK toolbox to flash the firmware on the Arduino micro
 
 The pinout in the Arduino Pro Micro was soldered as follows:
 Columns from 0 to 14:   "C6", "D7", "E6", "B4", "B5", "B6", "B2", "B3", "B1", "F7", "F6", "F5", "F4", "B0", "D5"
+
 Rows from 0 to 4:       "D0", "D1", "D2", "D3", "D4"
+
 with 0,0 at the left top.
-![Arduino Pro Micro](arduino-promicro-pinout.png)
+![Arduino Pro Micro](pro_micro_pinout.jpg)
