@@ -31,4 +31,4 @@ with 0,0 at the left top.
 ![Arduino Pro Micro](pro_micro_pinout.jpg)
 
 
-![Finished Keyboard](finished_keyboard.jpg)<>
+![Finished Keyboard](finished_keyboard.jpg)
